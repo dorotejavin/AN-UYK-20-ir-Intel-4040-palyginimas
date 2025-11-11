@@ -1,4 +1,4 @@
-#Dorotėja Vindžigalskytė, bioinformatika 2 kursas
+# Dorotėja Vindžigalskytė, bioinformatika 2 kursas
 # AN/UYK-20 vs Intel 4040
 Techninė ataskaita, kurioje lyginamos dvi kompiuterių architektūros:
 - AN/UYK-20 (Sperry Univac, 1974m.)
