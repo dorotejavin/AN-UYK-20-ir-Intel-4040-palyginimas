@@ -15,4 +15,4 @@
    
 7. UN (1974). *Intel 4040 Microcomputer System User’s Manual*. Prieiga:https://datasheets.chipdb.org/Intel/MCS-40/4040.pdf
 
-8. https://www.cpu-world.com/Arch/4040.html
+8. Grokipedia (n.d.) Intel 4040  https://grokipedia.com/page/Intel_4040
