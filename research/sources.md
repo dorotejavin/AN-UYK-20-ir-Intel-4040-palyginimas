@@ -13,6 +13,6 @@
 
 6. UNIVAC Corp (1976). *AN/UYK-20 Technical Description (DTIC ADA039170)*. Prieiga:         https://archive.org/stream/DTIC_ADA039170/DTIC_ADA039170_djvu.txt
    
-7. UN (1974). *Intel 4040 Microcomputer System User’s Manual*. Prieiga:https://datasheets.chipdb.org/Intel/MCS-40/4040.pdf
+7. UN (1974). *Intel 4040 Microcomputer System User’s Manual*. Prieiga: Prieiga:https://datasheets.chipdb.org/Intel/MCS-40/4040.pdf
 
-8. Grokipedia (n.d.) Intel 4040  https://grokipedia.com/page/Intel_4040
+8. Grokipedia (n.d.) Intel 4040 Prieiga:  https://grokipedia.com/page/Intel_4040
